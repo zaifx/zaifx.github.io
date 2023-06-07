@@ -45,6 +45,7 @@ html {
     padding-top: 60px;
     font-family: 'Segoe UI Medium', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 48px;
+    float: left;
 }
 
 .thebest {
@@ -63,6 +64,7 @@ html {
     padding-top: 200px;
     font-family: 'Segoe UI Medium', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 48px;
+    float: left;
 }
 
 .bottom {
