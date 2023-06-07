@@ -54,7 +54,7 @@ html {
     background-clip: text;
 }
 
-.byzaif {
+.gg {
     background-image: linear-gradient(to bottom right, mediumspringgreen, rgb(160, 255, 218));
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
@@ -68,4 +68,25 @@ html {
     font-family: 'Segoe UI Regular', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 24px;
     color: white;
+}
+
+.fact1 {
+    padding-top: 232px;
+    padding-right: 40px;
+    font-family: 'Segoe UI Medium', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 48px;
+}
+
+.fact2 {
+    padding-top: 332px;
+    padding-left: 40px;
+    font-family: 'Segoe UI Medium', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 48px;
+}
+
+.fact3 {
+    padding-top: 432px;
+    padding-right: 40px;
+    font-family: 'Segoe UI Medium', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 48px;
 }
