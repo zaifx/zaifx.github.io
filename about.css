@@ -98,7 +98,7 @@ html {
     float: right;
 }
 
-.gg1 {
+.g1 {
     background-image: linear-gradient(to bottom right, mediumspringgreen, rgb(160, 255, 218));
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
@@ -110,7 +110,7 @@ html {
     float: right;
 }
 
-.gg2 {
+.g2 {
     background-image: linear-gradient(to bottom right, mediumspringgreen, rgb(160, 255, 218));
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
@@ -122,7 +122,7 @@ html {
     float: left;
 }
 
-.gg3 {
+.g3 {
     background-image: linear-gradient(to bottom right, mediumspringgreen, rgb(160, 255, 218));
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
