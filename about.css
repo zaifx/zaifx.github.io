@@ -59,6 +59,10 @@ html {
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
     background-clip: text;
+    padding-top: 232px;
+    padding-left: 40px;
+    font-family: 'Segoe UI Medium', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 48px;
 }
 
 .bottom {
@@ -75,6 +79,7 @@ html {
     padding-right: 40px;
     font-family: 'Segoe UI Medium', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 48px;
+    float: right;
 }
 
 .fact2 {
@@ -82,6 +87,7 @@ html {
     padding-left: 40px;
     font-family: 'Segoe UI Medium', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 48px;
+    float: left;
 }
 
 .fact3 {
@@ -89,4 +95,41 @@ html {
     padding-right: 40px;
     font-family: 'Segoe UI Medium', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 48px;
+    float: right;
+}
+
+.gg1 {
+    background-image: linear-gradient(to bottom right, mediumspringgreen, rgb(160, 255, 218));
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    padding-top: 232px;
+    padding-right: 40px;
+    font-family: 'Segoe UI Medium', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 48px;
+    float: right;
+}
+
+.gg2 {
+    background-image: linear-gradient(to bottom right, mediumspringgreen, rgb(160, 255, 218));
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    padding-top: 332px;
+    padding-left: 40px;
+    font-family: 'Segoe UI Medium', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 48px;
+    float: left;
+}
+
+.gg3 {
+    background-image: linear-gradient(to bottom right, mediumspringgreen, rgb(160, 255, 218));
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    padding-top: 432px;
+    padding-right: 40px;
+    font-family: 'Segoe UI Medium', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 48px;
+    float: right;
 }
