@@ -42,7 +42,7 @@ html {
 
 .text {
     padding-left: 40px;
-    padding-top: 32px;
+    padding-top: 60px;
     font-family: 'Segoe UI Medium', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 48px;
 }
@@ -60,7 +60,7 @@ html {
     -webkit-background-clip: text;
     background-clip: text;
     padding-left: 40px;
-    padding-top: 60px;
+    padding-top: 120px;
     font-family: 'Segoe UI Medium', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 48px;
 }
