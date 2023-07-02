@@ -10,7 +10,7 @@ html {
     background-image: linear-gradient(to bottom right, #000000, #0f583d);
     background-repeat: no-repeat;
     background-size: cover;
-    height: auto;
+    height: 400%;
 }
 
 .logo {
