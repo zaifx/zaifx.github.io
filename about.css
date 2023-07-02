@@ -51,20 +51,6 @@ html {
     background-clip: text;
 }
 
-.thebest {
-    background-image: linear-gradient(to bottom right, mediumspringgreen, rgb(160, 255, 218));
-    -webkit-text-fill-color: transparent;
-    -webkit-background-clip: text;
-    background-clip: text;
-}
-
-.byzaif {
-    background-image: linear-gradient(to bottom right, mediumspringgreen, rgb(160, 255, 218));
-    -webkit-text-fill-color: transparent;
-    -webkit-background-clip: text;
-    background-clip: text;
-}
-
 .bottom {
     float: left;
     margin-left: 40px;
