@@ -69,3 +69,15 @@ html {
     font-size: 24px;
     color: mediumspringgreen;
 }
+
+.articles {
+    font-family: 'Segoe UI Regular', Tahoma, Geneva, Verdana, sans-serif;
+    color: #d3ffee;
+    text-decoration: none;
+    transition: color 0.3s ease-out;
+    text-align: auto;
+}
+
+.articles:hover {
+    color: mediumspringgreen;
+}
