@@ -75,7 +75,8 @@ html {
     color: #d3ffee;
     text-decoration: none;
     transition: color 0.3s ease-out;
-    text-align: auto;
+    text-align: left;
+    float: left;
 }
 
 .articles:hover {
