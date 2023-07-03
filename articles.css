@@ -76,9 +76,15 @@ html {
     text-decoration: none;
     transition: color 0.3s ease-out;
     text-align: left;
-    float: left;
+    float: right;
+    display: inline;
 }
 
 .articles:hover {
     color: mediumspringgreen;
+}
+
+.buttons {
+    float: right;
+    display: inline;
 }

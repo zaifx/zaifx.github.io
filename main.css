@@ -76,7 +76,8 @@ html {
     text-decoration: none;
     transition: color 0.3s ease-out;
     text-align: auto;
-    float: left;
+    float: right;
+    display: inline;
 }
 
 .articles:hover {
@@ -84,5 +85,6 @@ html {
 }
 
 .buttons {
-    float: left;
+    float: right;
+    display: inline;
 }
