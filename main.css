@@ -87,4 +87,5 @@ html {
 .buttons {
     float: right;
     display: inline;
+    text-align: right;
 }
