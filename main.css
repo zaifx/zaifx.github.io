@@ -82,3 +82,7 @@ html {
 .articles:hover {
     color: mediumspringgreen;
 }
+
+.buttons {
+    float: left;
+}
