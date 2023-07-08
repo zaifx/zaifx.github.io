@@ -27,7 +27,6 @@ html {
     margin-right: 40px;
     margin-top: 42px;
     float: right;
-    float: right;
     display: inline;
     text-align: right;
 }
@@ -72,3 +71,15 @@ html {
     font-size: 24px;
     color: mediumspringgreen;
 }
+
+.articles {
+    font-family: 'Segoe UI Regular', Tahoma, Geneva, Verdana, sans-serif;
+    color: #d3ffee;
+    text-decoration: none;
+    transition: color 0.3s ease-out;
+}
+
+.articles:hover {
+    color: mediumspringgreen;
+}
+
