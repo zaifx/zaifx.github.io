@@ -23,15 +23,10 @@ html {
     color: #00fa9a;
 }
 
-.buttons {
-    margin-right: 40px;
-    margin-top: 42px;
-    float: right;
-}
-
 .abouttext {
     font-family: 'Segoe UI Regular', Tahoma, Geneva, Verdana, sans-serif;
     color: #d3ffee;
+    margin-top: 42px;
     text-decoration: none;
     transition: color 0.3s ease-out;
 }
@@ -84,12 +79,6 @@ html {
     color: mediumspringgreen;
 }
 
-.buttons {
-    float: right;
-    display: inline;
-    text-align: right;
-}
-
 .articlest {
     font-family: 'Segoe UI Regular', Tahoma, Geneva, Verdana, sans-serif;
     color: #d3ffee;
@@ -99,4 +88,5 @@ html {
     float: right;
     display: inline;
     padding-right: 160px;
+    margin-top: 42px;
 }
