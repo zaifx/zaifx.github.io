@@ -89,3 +89,14 @@ html {
     display: inline;
     text-align: right;
 }
+
+.articlest {
+    font-family: 'Segoe UI Regular', Tahoma, Geneva, Verdana, sans-serif;
+    color: #d3ffee;
+    text-decoration: none;
+    transition: color 0.3s ease-out;
+    text-align: auto;
+    float: right;
+    display: inline;
+    padding-right: 60px;
+}
