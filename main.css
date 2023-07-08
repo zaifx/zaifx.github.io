@@ -29,6 +29,8 @@ html {
     float: right;
     display: inline;
     text-align: right;
+    vertical-align: top;
+    display: inline-block;
 }
 
 .abouttext {
