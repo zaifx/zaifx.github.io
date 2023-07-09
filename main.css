@@ -30,7 +30,6 @@ html {
     margin-top: 42px;
     float: right;
     display: inline;
-    text-align: right;
     display: flex;
     width: 200px;
 }
