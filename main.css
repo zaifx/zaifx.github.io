@@ -1,5 +1,5 @@
 .header {
-    font-family: 'Agdasima';
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 24px;
     float: left;
     margin-left: 40px;
@@ -11,7 +11,7 @@ html {
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
-    width: 100%;
+    width: auto;
     background-color: mediumseagreen;
 }
 
@@ -31,7 +31,7 @@ html {
     float: right;
     display: inline;
     text-align: right;
-    display: block;
+    display: flex;
 }
 
 .abouttext {
@@ -39,6 +39,7 @@ html {
     color: #d3ffee;
     text-decoration: none;
     transition: color 0.3s ease-out;
+    text-align: right;
 }
 
 .abouttext:hover {
@@ -80,6 +81,7 @@ html {
     color: #d3ffee;
     text-decoration: none;
     transition: color 0.3s ease-out;
+    text-align: end;
 }
 
 .articles:hover {
