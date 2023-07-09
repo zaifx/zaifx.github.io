@@ -27,7 +27,7 @@ html {
 .buttons {
     margin-right: 40px;
     margin-top: 42px;
-    float: none;
+    float: right;
     display: inline;
     text-align: right;
     vertical-align: top;
