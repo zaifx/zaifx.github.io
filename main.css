@@ -32,6 +32,7 @@ html {
     display: inline;
     text-align: right;
     display: flex;
+    width: 200px;
 }
 
 .abouttext {
@@ -81,7 +82,7 @@ html {
     color: #d3ffee;
     text-decoration: none;
     transition: color 0.3s ease-out;
-    text-align: end;
+    text-align: right;
 }
 
 .articles:hover {
