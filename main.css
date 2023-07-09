@@ -28,10 +28,9 @@ html {
 .buttons {
     margin-right: 40px;
     margin-top: 42px;
-    float: right;
-    display: inline;
-    display: flex;
+    display: inline-block;
     width: 200px;
+    text-align: right;
 }
 
 .abouttext {
