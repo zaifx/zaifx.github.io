@@ -1,11 +1,17 @@
+html{
+    background-color: black;
+}
+
 devnote {
-    font-family: 'Segoe UI', Geneva;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     padding-top: 50%;
+    color: mintcream;
 }
 
 moreinf {
-    font-family: 'Segoe UI', Geneva;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     padding-top: 30px;
+    color: mintcream;
 }
