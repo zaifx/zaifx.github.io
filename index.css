@@ -1,5 +1,11 @@
-devnote{
+devnote {
     font-family: 'Segoe UI', Geneva;
     text-align: center;
     padding-top: 50%;
+}
+
+moreinf {
+    font-family: 'Segoe UI', Geneva;
+    text-align: center;
+    padding-top: 30px;
 }
