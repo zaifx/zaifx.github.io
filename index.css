@@ -2,14 +2,14 @@ html{
     background-color: black;
 }
 
-devnote {
+h1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     padding-top: 50%;
     color: mintcream;
 }
 
-moreinf {
+h4 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     padding-top: 30px;
