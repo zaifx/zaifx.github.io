@@ -3,6 +3,11 @@ html {
     height: 100%;
 }
 
+@font-face {
+    font-family: Jost;
+    src: url(files/fonts/Jost-VariableFont_wght.ttf);
+}
+
 .header {
     margin: 6px;
     padding-left: 32px;
@@ -10,7 +15,7 @@ html {
 }
 
 #logo {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Jost;
     font-weight: 500;
     font-size: 38px;
     color: black;
@@ -23,7 +28,7 @@ html {
 }
 
 #about {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Jost;
     font-weight: 300;
     color: black;
     float: right;
@@ -36,7 +41,7 @@ html {
 }
 
 #contact {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Jost;
     font-weight: 300;
     color: black;
     float: right;
@@ -56,7 +61,7 @@ html {
 }
 
 #welcome {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Jost;
     font-weight: 300;
     font-size: 82px;
 }
@@ -68,19 +73,19 @@ html {
 }
 
 #name {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Jost;
     font-size: 16px;
     float: left;
 }
 
 #aboutweb {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Jost;
     float: right;
     padding-top: 6px;
 }
 
 #source {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Jost;
     float: right;
     padding-right: 10px;
     padding-top: 6px;
